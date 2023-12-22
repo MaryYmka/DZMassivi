@@ -1,0 +1,15 @@
+C:\Users\Mary\Desktop\DZMassivi\Zavanie1\bin\Debug\net6.0\Zavanie1.exe
+C:\Users\Mary\Desktop\DZMassivi\Zavanie1\bin\Debug\net6.0\Zavanie1.deps.json
+C:\Users\Mary\Desktop\DZMassivi\Zavanie1\bin\Debug\net6.0\Zavanie1.runtimeconfig.json
+C:\Users\Mary\Desktop\DZMassivi\Zavanie1\bin\Debug\net6.0\Zavanie1.dll
+C:\Users\Mary\Desktop\DZMassivi\Zavanie1\bin\Debug\net6.0\Zavanie1.pdb
+C:\Users\Mary\Desktop\DZMassivi\Zavanie1\obj\Debug\net6.0\Zavanie1.csproj.AssemblyReference.cache
+C:\Users\Mary\Desktop\DZMassivi\Zavanie1\obj\Debug\net6.0\Zavanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mary\Desktop\DZMassivi\Zavanie1\obj\Debug\net6.0\Zavanie1.AssemblyInfoInputs.cache
+C:\Users\Mary\Desktop\DZMassivi\Zavanie1\obj\Debug\net6.0\Zavanie1.AssemblyInfo.cs
+C:\Users\Mary\Desktop\DZMassivi\Zavanie1\obj\Debug\net6.0\Zavanie1.csproj.CoreCompileInputs.cache
+C:\Users\Mary\Desktop\DZMassivi\Zavanie1\obj\Debug\net6.0\Zavanie1.dll
+C:\Users\Mary\Desktop\DZMassivi\Zavanie1\obj\Debug\net6.0\refint\Zavanie1.dll
+C:\Users\Mary\Desktop\DZMassivi\Zavanie1\obj\Debug\net6.0\Zavanie1.pdb
+C:\Users\Mary\Desktop\DZMassivi\Zavanie1\obj\Debug\net6.0\Zavanie1.genruntimeconfig.cache
+C:\Users\Mary\Desktop\DZMassivi\Zavanie1\obj\Debug\net6.0\ref\Zavanie1.dll
