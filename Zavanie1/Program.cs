@@ -23,16 +23,16 @@ void PrintArray(int[] num) //Вывод массива
     }
 }
 
-bool IsCheck(int num) //Создание метода для проверки окончания и деления
+bool IsCheck(int num) //Создание метода для проверки условия
 {
     return ((num > 20) && (num < 90));
 }
 
 
 
-int GetCount(int[] array) //Метод, который возвращает кол-во эллементовс простыми значениями
+int GetCount(int[] array) //Метод, который возвращает кол-во эллементов с простыми значениями
 {
-    int count = 0; // присвоение count значение 0
+    int count = 0; 
     for (int i = 0; i < array.Length; i++)
     {
        if(IsCheck(array[i]))
@@ -42,6 +42,6 @@ int GetCount(int[] array) //Метод, который возвращает ко
     }
     return count;
 }    
-PrintArray(list);
+PrintArray(list); 
 Console.WriteLine();
 Console.WriteLine(GetCount(list));
